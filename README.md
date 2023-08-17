@@ -99,8 +99,8 @@ Through these dynamic features, Spacetar seeks to break down barriers, challenge
 The development journey of Spacetar can be distilled into several pivotal stages:
 
 ### Smart Contract Creation: 
-The foundation of Spacetar's decentralized ecosystem lies in its smart contracts. We meticulously crafted and deployed smart contracts on the Avalanche blockchain, ensuring the security and integrity of the platform. The verified contract address can be found here 
-https://goerli.basescan.org/address/0x4838854e5150e4345fb4ae837e9fcca40d51f3fe#code
+The foundation of Spacetar's decentralized ecosystem lies in its smart contracts. We meticulously crafted and deployed smart contracts on the opBNB blockchain, ensuring the security and integrity of the platform. The verified contract address can be found here 
+https://opbnbscan.com/address/0x4838854e5150E4345Fb4Ae837E9FcCa40D51F3Fe?p=1&tab=Contract
 
 ### Intuitive User Interface: 
 The design of the user interface was paramount in fostering a user-friendly and inviting experience. Employing Wagmi, React.js, and other cutting-edge technologies, we fashioned an interface that facilitates seamless interactions with the underlying blockchain infrastructure.
@@ -150,7 +150,7 @@ Spacetar represents more than a decentralized application; it's a movement. In t
 Join us in this transformative journey as we empower mental well-being, one connection and story at a time. Your voice matters, and Spacetar is here to amplify it.
 
 ## Useful Resources
-- Link to Deployed Website: https://spacetar-on-base.vercel.app
+- Link to Deployed Website: https://spacetar-on-opbnb.vercel.app
 - Contract Address (0x4838854e5150e4345fb4ae837e9fcca40d51f3fe)
-- Link to Verified Contract Address on Base Goerli Testnet: https://goerli.basescan.org/address/0x4838854e5150e4345fb4ae837e9fcca40d51f3fe#code
+- Link to Verified Contract Address on opBNB Testnet: https://opbnbscan.com/address/0x4838854e5150E4345Fb4Ae837E9FcCa40D51F3Fe?p=1&tab=Contract
 - Link to Spacetar DEMO Video: https://youtu.be/XgdbL20QwNg
