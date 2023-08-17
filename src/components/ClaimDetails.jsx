@@ -24,7 +24,6 @@ const ClaimDetails = () => {
         {/* <QrCodeImg>
           <img src={claimPoints} alt="" />
         </QrCodeImg> */}
-        {console.log(data)}
         <article>
           <h2>
           You've earned: <b>{Number.isNaN(data) || data < 1 ? 0 : Number(data)}</b> Points
