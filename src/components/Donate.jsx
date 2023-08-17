@@ -4,11 +4,11 @@ import DonateDetails from "./DonateDetails";
 import usdc from "../assets/usdc.png"
 import tether from "../assets/tether.png"
 import ethereum from "../assets/ethereum.png"
-import avax from "../assets/avax.png"
+import bnb from "../assets/bnb.png"
 
 function Donate() {
-  const [cryptoCoin, setCryptoCoin] = useState("Ethereum");
-  const [cryptoShort, setCrpto] = useState("ETH");
+  const [cryptoCoin, setCryptoCoin] = useState("BNB");
+  const [cryptoShort, setCrpto] = useState("BNB");
   const [active, setActive] = useState(true);
   const [activeTab, setActiveTab] = useState(1);
 
@@ -23,13 +23,28 @@ function Donate() {
       <DonatePage>
         <h1>Support What we're building</h1>
         <div style={{ display: 'flex',  justifyContent: 'center' }}>
+          <DonateButton
+            onClick={() => {
+              setCryptoCoin("BNB");
+              setCrpto("BNB");
+              setActive(true);
+              handleTabClick(1);
+            }}
+          >
+            <img src={bnb}
+           alt="" 
+            style={{
+            width: '28%',
+          }}
+          />
+          </DonateButton>
 
           <DonateButton
             onClick={() => {
               setCryptoCoin("Ethereum");
               setCrpto("ETH");
               setActive(true);
-              handleTabClick(1);
+              handleTabClick(2);
             }}
           >
           <img src={ethereum}
@@ -46,14 +61,14 @@ function Donate() {
               setCryptoCoin("Tether");
               setCrpto("USDT");
               setActive(true);
-              handleTabClick(2);
+              handleTabClick(3);
             }}
           >
           <img src={tether}
            alt="" 
             style={{
-            width: '40%',
-            marginLeft: '-700px'
+            width: '30%',
+            marginLeft: '-500px'
           }}
           />
           </DonateButton>
@@ -63,14 +78,14 @@ function Donate() {
               setCryptoCoin("USD Coin");
               setCrpto("USDC");
               setActive(true);
-              handleTabClick(3);
+              handleTabClick(4);
             }}
           >
             <img src={usdc}
            alt="" 
             style={{
-            width: '40%',
-            marginLeft: '-930px'
+            width: '30%',
+            marginLeft: '-650px'
           }}
           />
           </DonateButton>
@@ -79,6 +94,7 @@ function Donate() {
           {activeTab === 1 && <DonateDetails cryptoCoin={cryptoCoin} cryptoShort={cryptoShort} />}
           {activeTab === 2 && <DonateDetails cryptoCoin={cryptoCoin} cryptoShort={cryptoShort} />}
           {activeTab === 3 && <DonateDetails cryptoCoin={cryptoCoin} cryptoShort={cryptoShort} />}
+          {activeTab === 4 && <DonateDetails cryptoCoin={cryptoCoin} cryptoShort={cryptoShort} />}
         </Detail>
       </DonatePage>
     </>
