@@ -1,6 +1,6 @@
 # Spacetar - A Decentralized Community Empowering Mental Well-Being
 
-![Spacetar Homepage](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/dashboard-1.png)
+![Spacetar Homepage](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/homepage.png)
 
 
 ## Inspiration
@@ -27,7 +27,7 @@ To explore and interact with the Spacetar decentralized application (dApp) on yo
 2. Install Dependencies
 * Navigate to the cloned repository's directory:
 ```
-cd spacetar-on-base
+cd spacetar-on-opBNB
 ```
 * Install the required Node.js packages by running:
 ```
@@ -37,8 +37,8 @@ npm install
 * Create a file named .env in the root directory of the project.
 * Open the .env file and add the following variables:
 ```
-VITE_BASE_PROJECT_ID=YOUR_PROJECT_ID
-VITE_BASE_CONTRACT=YOUR_CONTRACT_ADDRESS
+VITE_OPBNB_PROJECT_ID=YOUR_PROJECT_ID
+VITE_OPBNB_CONTRACT=YOUR_CONTRACT_ADDRESS
 ```
 Replace YOUR_PROJECT_ID with your project ID and YOUR_CONTRACT_ADDRESS with the deployed contract address.
 
@@ -50,7 +50,7 @@ Your default web browser should automatically open and display the Spacetar dApp
 Now you can explore the various features of the Spacetar dApp locally, including joining Help Rooms, earning reward tokens, contributing to the community, and experiencing a transformative journey towards improved mental well-being.
 
 ## Using Spacetar on the Live Website
-To access and use the Spacetar decentralized application on the live website, simply visit https://spacestar-on-base.vercel.app/.
+To access and use the Spacetar decentralized application on the live website, simply visit https://spacestar-on-opbnb.vercel.app/.
 Here, you can seamlessly engage with all the empowering features that Spacetar has to offer. Join Help Rooms, earn reward tokens, contribute to the community, and embark on a meaningful journey towards enhanced mental well-being.
 
 
@@ -59,19 +59,19 @@ Spacetar is a groundbreaking decentralized application (dApp) that redefines the
 
 
 ### Holistic Dashboard Experience
-![Spacetar Dashboard](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/homepage.png)
+![Spacetar Dashboard](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/dashboard.png)
 
 Step into a seamlessly integrated dashboard that serves as your portal to the Spacetar universe. This comprehensive hub provides a bird's-eye view of all essential elements. From here, you can effortlessly access every facet of Spacetar's transformative capabilities, making your journey smooth and intuitive.
 
 ### Help Rooms: Connect and Engage
-![Spacetar Chat](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/chat-room.png)
+![Spacetar Chat](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/chat_room.png)
 
 Forge connections and engage in vibrant conversations within Spacetar's unique Help Rooms. These dynamic group chat spaces offer an arena where individuals can join ongoing discussions or initiate their dialogues. 
 Experience the power of shared experiences as you interact, connect, and find solace in a community that understands and supports you.
 
 ### Reward Points: Claim Your Empowerment
 
-![Spacetar Claims](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/claim-page.png)
+![Spacetar Claims](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/claim.png)
 
 
 Your active participation in the Spacetar community doesn't go unnoticed. Navigate to the Reward Points section to witness the tangible impact of your engagement. Here, you can view the reward tokens you've earned, a testament to your contributions. 
@@ -81,12 +81,12 @@ The Spacetar ecosystem empowers users to accumulate and stake their earned rewar
 Harness these tokens to strengthen your connection with the Spacetar ecosystem and amplify your well-being journey.
 
 ### Empower through Contribution: Donate to Fuel Progress
-![Spacetar Donate](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/donate.png)
+![Spacetar Donate](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/donate.png)
 
 Spacetar isn't just a dApp; it's a shared vision of empowerment and support. Immerse yourself in the Donate section, where you have the opportunity to contribute to the growth and sustenance of the Spacetar community. By supporting this collective endeavor, you actively shape the future of mental health empowerment.
 
 ### Seamless Departures: Exit Rooms and Disconnect
-![Spacetar Exit](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/exit-room.png)
+![Spacetar Exit](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/exit.png)
 
 Exercise autonomy over your Spacetar experience with the Exit Room feature. When you feel your time in a Help Room has reached its conclusion, gracefully exit the conversation without hesitation. 
 
