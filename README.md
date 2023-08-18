@@ -105,7 +105,7 @@ https://opbnbscan.com/address/0x4838854e5150E4345Fb4Ae837E9FcCa40D51F3Fe?p=1&tab
 ### Intuitive User Interface: 
 The design of the user interface was paramount in fostering a user-friendly and inviting experience. Employing Wagmi, React.js, and other cutting-edge technologies, we fashioned an interface that facilitates seamless interactions with the underlying blockchain infrastructure.
 
-We established a bridge between the frontend and the Base blockchain. This enabled users to transparently engage with smart contracts and participate in the Spacetar community.
+We established a bridge between the frontend and the opBNB blockchain. This enabled users to transparently engage with smart contracts and participate in the Spacetar community.
 
 ## Challenges we ran into
 Our journey in bringing Spacetar to life was not devoid of challenges. Navigating the complexities of blockchain technology, designing a seamless user interface, and integrating various components required strategic problem-solving and persistent collaboration.
