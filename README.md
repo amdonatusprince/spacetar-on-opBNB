@@ -11,7 +11,7 @@ The driving force behind this project was the desire to create a community that 
 We envisioned Spacetar as a beacon of empathy and connection, where people from all walks of life could come together to embark on a journey of healing and empowerment.
 
 ## Watch the Spacetar DEMO video
-[![Watch the video](https://img.youtube.com/vi/XgdbL20QwNg/0.jpg)](https://youtu.be/XgdbL20QwNg)
+[![Watch the video](https://img.youtube.com/vi/UPXRyQnyCd4/0.jpg)](https://youtu.be/UPXRyQnyCd4)
 
 
 
@@ -153,4 +153,4 @@ Join us in this transformative journey as we empower mental well-being, one conn
 - Link to Deployed Website: https://spacetar-on-opbnb.vercel.app
 - Contract Address (0x4838854e5150e4345fb4ae837e9fcca40d51f3fe)
 - Link to Verified Contract Address on opBNB Testnet: https://opbnbscan.com/address/0x4838854e5150E4345Fb4Ae837E9FcCa40D51F3Fe?p=1&tab=Contract
-- Link to Spacetar DEMO Video: https://youtu.be/XgdbL20QwNg
+- Link to Spacetar DEMO Video: https://youtu.be/UPXRyQnyCd4
