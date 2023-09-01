@@ -1,4 +1,4 @@
-# Spacetar - an accessible, incentive-driven, decentralized social forum powered by community engagement, built on opBNB
+# Spacetar - an accessible, incentive-driven, decentralized social forum powered by community engagement
 
 ![Spacetar Homepage](https://github.com/amdonatusprince/spacetar-on-opBNB/blob/main/src/assets/homepage.png)
 
